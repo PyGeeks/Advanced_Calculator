@@ -11,6 +11,5 @@ It is User Frendly,simple to accesess<br/>
 ### Required Python Packages
 The below listed package are required to run the script in python<br/>
 <b>1. math</b><br/>
-### Output
-Here in Trigonometry Functions and Hyperbolic Functions Both outputs is User Option. That it May be Degrees are Rardi <br/>
+
  
