@@ -1,7 +1,7 @@
 # Advanced_Calculator
 Advanced_Calculator is a Calculator That holds the Both Basic_Calculator and Scientific_Calculator<br/>
 
-Basic_Calculator it performe The Operation Like <br/>
+Basic_Calculator Deals With the <br/>
 <b>Arithmetic Operations</b><br/>
 
 Scientific_calculator Deals with the<br/>
